@@ -1,6 +1,6 @@
 # 台灣工程師在新加坡
 
-台灣軟體開發者到新加坡的工作、生活、簽證申請經驗分享。
+降低您對新加坡工作的擔心。
 
 得到新加坡工作機會的時候，您是否會擔心在異國的生活狀況？這裡整理了許多新加坡相關的資訊、須知，且也有聊天室可以跟在新加坡的台灣人詢問您在乎的疑問。
 
@@ -14,7 +14,7 @@
 
 > 或 [按此進入聊天室](https://gitter.im/ascendbruce/taiwanese-developers-in-singapore?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-聊天室由 Gitter.im 提供，請用 GitHub 帳號登入。(如果只參與 Public repo 討論的話，不用給 Private repo 授權。)
+聊天室由 Gitter.im 提供，請用 GitHub 帳號登入 (不需要 private repo 授權)。如果沒有 GitHub 帳號，請先 [註冊](https://github.com/join) 一個。
 
 ## 參與貢獻
 
