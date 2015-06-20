@@ -4,6 +4,8 @@
 
 得到新加坡工作機會的時候，您是否會擔心在異國的生活狀況？這裡整理了許多新加坡相關的資訊、須知，且也有聊天室可以跟在新加坡的台灣人詢問您在乎的疑問。
 
+歡迎開 issue 補充、更新訊息，也歡迎要求加入編輯群。有大家的貢獻，我們可以讓這個 project 變成台灣人到新加坡工作相關資訊的最可靠的 hub，有幫助（工作跟觀光需求是很不同的）、正確、豐富的資訊。
+
 ## 新加坡相關常見問答
 
 在 [本 Project 的 wiki 頁](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki)
@@ -14,7 +16,7 @@
 
 > 或 [按此進入聊天室](https://gitter.im/ascendbruce/taiwanese-developers-in-singapore?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-聊天室由 Gitter.im 提供，請用 GitHub 帳號登入 (不需要 private repo 授權)。如果沒有 GitHub 帳號，請先 [註冊](https://github.com/join) 一個。
+聊天室使用 Gitter.im，請用 GitHub 帳號登入 (不需要 private repo 授權)。如果沒有 GitHub 帳號，請先 [註冊](https://github.com/join) 一個。
 
 ## 參與貢獻
 
