@@ -10,14 +10,13 @@
 
 ## 新加坡相關常見問答
 
-在 [本 Project 的 wiki 頁](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki)
-
 * [申請新加坡工作簽證流程](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki/%E7%94%B3%E8%AB%8B%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%B7%A5%E4%BD%9C%E7%B0%BD%E8%AD%89%E6%B5%81%E7%A8%8B)
 * [入境新加坡](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki/%E5%85%A5%E5%A2%83%E6%96%B0%E5%8A%A0%E5%9D%A1)
 * [新加坡外國人銀行開戶](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%96%E5%9C%8B%E4%BA%BA%E9%8A%80%E8%A1%8C%E9%96%8B%E6%88%B6)
 * [新加坡手機與數據上網](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%89%8B%E6%A9%9F%E8%88%87%E6%95%B8%E6%93%9A%E4%B8%8A%E7%B6%B2)
 * [其他在新加坡的生活須知](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki/%E5%85%B6%E4%BB%96%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%9A%84%E7%94%9F%E6%B4%BB%E9%A0%88%E7%9F%A5)
 * [新加坡交通](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki/%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%BA%A4%E9%80%9A)
+* ... 更多文章都在 [本 Project 的 wiki](https://github.com/ascendbruce/taiwanese-developers-in-singapore/wiki)
 
 ## 聊天室
 
